@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket Plugin | smart-contract-integration + backtesting offers the most advanced Polymarket plugin, with smart-contract-integration and backtesting. Ideal for
 
 
 
